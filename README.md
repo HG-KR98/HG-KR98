@@ -20,8 +20,8 @@
 
 - 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
 - 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
 - 😄 Pronouns : Ordinary 
 - ⚡ Fun fact : I think that everyone is not ordinary.
