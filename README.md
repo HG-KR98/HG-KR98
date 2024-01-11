@@ -22,9 +22,8 @@
 - 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
 - 😄 Pronouns : Ordinary 
 - ⚡ Fun fact : I think that everyone is not ordinary.
-- 🏙️ residence : Korea in Gumi
-- 🏫 School : Dosan(Elementary), Gumi(middle), Gumi(High), Keimyung(University) 
-
+- 🏙️ residence : Republic of Korea in Gumi
+- 🏫 School : Dosan(Elementary), Gumi(middle), Gumi(High), Keimyung(University), SSAFY
 
 <!---
 HG-KR98/HG-KR98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
