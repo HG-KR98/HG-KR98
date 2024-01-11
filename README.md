@@ -18,7 +18,7 @@
 </div>
 
 
-- 👋 Hi, I’m @HG-KR98
+- 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
 - 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Google
