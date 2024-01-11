@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=KimHeonGyu)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=HeonGyuKim)
 </div>
  
 <div align="right"> 
