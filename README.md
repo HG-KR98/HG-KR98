@@ -7,9 +7,9 @@
  <div style="display: flex;">
     <a href="https://github.com/HG-KR98"><img style="height:150px; margin-right: 20px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="HG-KR98's github stats" /></a>
     <a href="https://github.com/HG-KR98"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khg6436)](https://solved.ac/khg6436)
 </div>
 
-<div align="right"> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Nintendo-red">
