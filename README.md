@@ -2,14 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=HeonGyuKim)
 </div>
- 
-<div align="right"> 
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khg6436)](https://solved.ac/khg6436)
+
+
+ <div style="display: flex;">
+    <a href="https://github.com/HG-KR98"><img style="height:150px; margin-right: 20px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="HG-KR98's github stats" /></a>
+    <a href="https://github.com/HG-KR98"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
 </div>
-
-
 
 <div align="right"> 
 
