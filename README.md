@@ -6,8 +6,9 @@
 <div align="right"> 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=khg6436)](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khg6436)](https://solved.ac/khg6436)
 </div>
+
 
 
 <div align="right"> 
