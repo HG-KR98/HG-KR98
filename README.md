@@ -15,11 +15,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+</div>
+
 
 - 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
 - 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
 - 😄 Pronouns : Ordinary 
 - ⚡ Fun fact : I think that everyone is not ordinary.
