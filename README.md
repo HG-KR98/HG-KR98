@@ -1,9 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontColor=FFFFFF)
 
-<div style="display: flex;">
-    <a href="https://github.com/HG-KR98"><img style="height:150px; margin-right: 20px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="HG-KR98's github stats" /></a>
-    <a href="https://github.com/HG-KR98"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact)
-</div>
+[![HG-KR98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-KR98&count_private=true&theme=tokyonight)](https://github.com/HG-KR98/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact)](https://github.com/HG-KR98/github-readme-stats)-->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -22,6 +21,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 </div>
 
+<hr/>
 
 - 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
 - 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
