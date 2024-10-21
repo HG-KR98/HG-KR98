@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/HG-KR98"
+  width="600"
+  height="300"
+/>
+</a>
+
 <hr/>
 
 - 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
