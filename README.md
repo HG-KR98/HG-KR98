@@ -23,13 +23,15 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 </div>
 
-<a href="https://github.com/devxb/gitanimals" align="center">
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HG-KR98"
   width="600"
   height="300"
 />
 </a>
+</div>
 
 <hr/>
 
