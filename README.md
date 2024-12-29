@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&text=HG-KR98's_Git-Hub&fontColor=FFFFFF)
 
 [![HG-KR98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HG-KR98&count_private=true&theme=tokyonight)](https://github.com/HG-KR98/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact)](https://github.com/HG-KR98/github-readme-stats)-->
-
+<a href="https://github.com/HG-KR98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=khg6436&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HG-KR98's github stats" /></a>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
