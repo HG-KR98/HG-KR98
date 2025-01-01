@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=HG-KR98's_Git-Hub&fontColor=FFFFFF" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Git-Hub_of_HG-KR98&fontColor=FFFFFF" /> 
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
