@@ -7,6 +7,14 @@
  <a href="https://github.com/HG-KR98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/HG-KR98/">
+    <img src="https://github-profile-trophy.vercel.app/?username=HG-KR98&theme=flat&column=7" alt="trophy" />
+  </a>
+</div>
+
 <h3 align="center">💡 Languages 💡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -34,6 +42,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HG-KR98&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
 </div>
+
 </div>
 
 <hr/>
