@@ -29,10 +29,11 @@
 
 <br/>
 
-<a href="https://github.com/HG-KR98/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HG-KR98&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/HG-KR98/github-readme-activity-graph" >
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HG-KR98&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </a>
+</div>
 </div>
 
 <hr/>
