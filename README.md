@@ -6,11 +6,12 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Heongyu+Kim;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;I+am+constantly+learning+backend+development!;Experienced+with+Spring+and+React!!;Passionate+about+building+projects+and+APIs!!!;Always+eager+to+learn+new+technologies!!!!)](https://git.io/typing-svg)
   
   <a href="https://github.com/HG-KR98/">
-      <img src="https://github-profile-trophy.vercel.app/?username=HG-KR98&theme=flat&column=7" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=HG-KR98&theme=flat&column=8" alt="trophy" />
   </a>
 
   <br/>
-
+  <br/>
+  
   <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HG-KR98's github stats" /></a>
    <a href="https://github.com/HG-KR98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
