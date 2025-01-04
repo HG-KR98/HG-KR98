@@ -50,7 +50,11 @@
       <img src="https://github.com/HG-KR98/HG-KR98/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
     </a>
   </div>
-
+  
+  <div align = right>
+    <h3> 👀 Profile Views - From January 5th, 2025 </h3>
+    <img src="https://count.getloli.com/get/@HG-KR98.github.readme" />
+  </div>
 </div>
 
 <hr/>
