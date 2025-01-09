@@ -17,6 +17,7 @@
    <a href="https://github.com/HG-KR98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
   </div>
 
+  <!-- Languages  -->
   <h3>💡 Languages 💡</h3>
   <div>
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -25,11 +26,36 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </div>
 
+  <!-- Tech Stack  -->
   <h3>✨ Tech Stack ✨</h3>
   <div>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  </div>
+
+  <!-- Database -->
+  <h3>💾 Database 💾</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </div>
+
+  <!-- Deployment -->
+  <h3>🚀 Deployment 🚀</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+      <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </div>
+
+
+  <!-- Communication -->
+  <h3>💬 Communication 💬</h3>
+  <div align="center">
+      <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+      <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </div>
 
   <h3>📚 Studying 📚</h3>
