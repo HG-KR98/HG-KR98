@@ -14,7 +14,7 @@
   
   <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=HG-KR98&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HG-KR98's github stats" /></a>
-   <a href="https://github.com/HG-KR98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
+   <a href="https://github.com/HG-KR98"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-KR98&layout=compact&theme=nord&hide_border=true" /></a>
   </div>
 
   <!-- Languages  -->
