@@ -86,7 +86,7 @@
 
 <hr/>
 
-- 👋 Hi, My name is Heon Gyu kim. I'm 26 years old.
+- 👋 Hi, My name is Heon Gyu kim. I'm 27 years old.
 - 👀 I’m interested in playing game(Nintendo, PS5), reading a book, Stock investing. 
 - 📫 How to reach me : Please contact me via my e-mail(khg6436@naver.com), I don't have Instagram and Facebook account.
 - 😄 Pronouns : Ordinary 
